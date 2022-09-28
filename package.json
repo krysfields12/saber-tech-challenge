@@ -1,0 +1,27 @@
+{
+  "name": "saber-tech-challenge",
+  "version": "1.0.0",
+  "description": "Take-home Tech Challenge to gauge understanding of the components used in Bespoke.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon server/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/krysfields12/saber-tech-challenge.git"
+  },
+  "author": "Krystin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/krysfields12/saber-tech-challenge/issues"
+  },
+  "homepage": "https://github.com/krysfields12/saber-tech-challenge#readme",
+  "dependencies": {
+    "express": "^4.18.1",
+    "pg": "^8.8.0",
+    "sequelize": "^6.23.2"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  }
+}
