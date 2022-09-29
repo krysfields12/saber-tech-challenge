@@ -4,7 +4,8 @@
   "description": "Take-home Tech Challenge to gauge understanding of the components used in Bespoke.",
   "main": "index.js",
   "scripts": {
-    "start": "nodemon server/index.js"
+    "start": "nodemon server/index.js",
+    "seed": "node server/db/seed.js"
   },
   "repository": {
     "type": "git",
