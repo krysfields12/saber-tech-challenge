@@ -1,0 +1,12 @@
+- building an e-commerce application using Nodejs/Express for the HTTP request and responses and using PostgreSQL 
+    and Sequelize to store and manage data. 
+- In a fully function e-commerce application, users should be able to browse contents and see data petaining to content.
+    Add products to cart, view cart, and finalize purchase. Application should be allow users to register, login, and or
+    browse guest. Members should have their data persisted through user authentication and authorization. Adminstrators should
+    be able to manipulate products - create, update, and delete, etc.
+- This starter application only has a backend, no frontend. 
+- The backend utlizes Nodejs/Express to GET(get), POST(create), PUT(update), DELETE(delete) data using the HTTP protocol. 
+    The routes included in this is projects is books, users, and carts.
+- The backend also utilizes PostgreSQL/Sequelizes as a relational database management system. A schema design was completed to
+    discover the relationships between model. 
+- This application does not include authentication/authorization, but a fully functional application would.
