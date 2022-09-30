@@ -10,3 +10,4 @@
 - The backend also utilizes PostgreSQL/Sequelizes as a relational database management system. A schema design was completed to
     discover the relationships between model. 
 - This application does not include authentication/authorization, but a fully functional application would.
+- Did research on Kafka, but did not have enough time to integrate correctly in application.
